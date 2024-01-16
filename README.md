@@ -20,7 +20,8 @@ This repository illustrates the effective use of IBM Watson data in conjunction 
 - **Correlation Matrix**: 
 ![Correlation Matrix](https://raw.githubusercontent.com/Aamir-Hullur/Employee-Attrition-Prediction/main/img/Correlation_Matrix.png)
 
-- **Model Accuracy Table**: 
+- **Model Accuracy Table**:
+
 ![Model Accuracy](https://raw.githubusercontent.com/Aamir-Hullur/Employee-Attrition-Prediction/main/img/Model%20Accuracy.png)
 
 - **Tableau Dashboard**: 
