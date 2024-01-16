@@ -18,11 +18,11 @@ This repository illustrates the effective use of IBM Watson data in conjunction 
 
 ## Visualizations
 - **Correlation Matrix**: 
-![Correlation Matrix]([URL_of_correlation_matrix_image](https://raw.githubusercontent.com/Aamir-Hullur/Employee-Attrition-Prediction/main/img/Correlation_Matrix.png))
+![Correlation Matrix](https://raw.githubusercontent.com/Aamir-Hullur/Employee-Attrition-Prediction/main/img/Correlation_Matrix.png)
 
 - **Model Accuracy Table**: 
-![Model Accuracy]([URL_of_model_accuracy_table_image](https://raw.githubusercontent.com/Aamir-Hullur/Employee-Attrition-Prediction/main/img/Model%20Accuracy.png)https://raw.githubusercontent.com/Aamir-Hullur/Employee-Attrition-Prediction/main/img/Model%20Accuracy.png)
+![Model Accuracy](https://raw.githubusercontent.com/Aamir-Hullur/Employee-Attrition-Prediction/main/img/Model%20Accuracy.png)
 
 - **Tableau Dashboard**: 
-![Tableau Dashboard]([URL_of_tableau_dashboard_image](https://raw.githubusercontent.com/Aamir-Hullur/Employee-Attrition-Prediction/main/img/Tableau_dashboard.png)https://raw.githubusercontent.com/Aamir-Hullur/Employee-Attrition-Prediction/main/img/Tableau_dashboard.png)
+![Tableau Dashboard](https://raw.githubusercontent.com/Aamir-Hullur/Employee-Attrition-Prediction/main/img/Tableau_dashboard.png)
 ![](https://raw.githubusercontent.com/Aamir-Hullur/Employee-Attrition-Prediction/main/img/Tableau_dashboard2.png)
